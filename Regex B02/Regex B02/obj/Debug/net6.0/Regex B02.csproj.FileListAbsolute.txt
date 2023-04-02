@@ -1,0 +1,15 @@
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 2\Regex B02\Regex B02\bin\Debug\net6.0\Regex B02.exe
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 2\Regex B02\Regex B02\bin\Debug\net6.0\Regex B02.deps.json
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 2\Regex B02\Regex B02\bin\Debug\net6.0\Regex B02.runtimeconfig.json
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 2\Regex B02\Regex B02\bin\Debug\net6.0\Regex B02.dll
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 2\Regex B02\Regex B02\bin\Debug\net6.0\Regex B02.pdb
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 2\Regex B02\Regex B02\obj\Debug\net6.0\Regex B02.csproj.AssemblyReference.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 2\Regex B02\Regex B02\obj\Debug\net6.0\Regex B02.GeneratedMSBuildEditorConfig.editorconfig
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 2\Regex B02\Regex B02\obj\Debug\net6.0\Regex B02.AssemblyInfoInputs.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 2\Regex B02\Regex B02\obj\Debug\net6.0\Regex B02.AssemblyInfo.cs
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 2\Regex B02\Regex B02\obj\Debug\net6.0\Regex B02.csproj.CoreCompileInputs.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 2\Regex B02\Regex B02\obj\Debug\net6.0\Regex B02.dll
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 2\Regex B02\Regex B02\obj\Debug\net6.0\refint\Regex B02.dll
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 2\Regex B02\Regex B02\obj\Debug\net6.0\Regex B02.pdb
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 2\Regex B02\Regex B02\obj\Debug\net6.0\Regex B02.genruntimeconfig.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 2\Regex B02\Regex B02\obj\Debug\net6.0\ref\Regex B02.dll

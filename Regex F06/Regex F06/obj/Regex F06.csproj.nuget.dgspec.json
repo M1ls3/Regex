@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\!Dizox\\Лаби\\ЧНУ\\2023 рік 2 семестр 2 курсу\\ООП\\Лаба 2\\Regex F06\\Regex F06\\Regex F06.csproj": {}
+  },
+  "projects": {
+    "C:\\!Dizox\\Лаби\\ЧНУ\\2023 рік 2 семестр 2 курсу\\ООП\\Лаба 2\\Regex F06\\Regex F06\\Regex F06.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\!Dizox\\Лаби\\ЧНУ\\2023 рік 2 семестр 2 курсу\\ООП\\Лаба 2\\Regex F06\\Regex F06\\Regex F06.csproj",
+        "projectName": "Regex F06",
+        "projectPath": "C:\\!Dizox\\Лаби\\ЧНУ\\2023 рік 2 семестр 2 курсу\\ООП\\Лаба 2\\Regex F06\\Regex F06\\Regex F06.csproj",
+        "packagesPath": "C:\\Users\\Dizox\\.nuget\\packages\\",
+        "outputPath": "C:\\!Dizox\\Лаби\\ЧНУ\\2023 рік 2 семестр 2 курсу\\ООП\\Лаба 2\\Regex F06\\Regex F06\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dizox\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Dizox\\.nuget\\packages": {},
+          "https://www.nuget.org/api/v2": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
