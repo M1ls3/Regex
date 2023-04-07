@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\!Dizox\\Лаби\\ЧНУ\\2023 рік 2 семестр 2 курсу\\ООП\\Лаба 2\\Regex\\Regex\\Regex.csproj": {}
+    "C:\\!Dizox\\Лаби\\ЧНУ\\2023 рік 2 семестр 2 курсу\\ООП\\Лаба 2\\Regex A01\\Regex\\Regex.csproj": {}
   },
   "projects": {
-    "C:\\!Dizox\\Лаби\\ЧНУ\\2023 рік 2 семестр 2 курсу\\ООП\\Лаба 2\\Regex\\Regex\\Regex.csproj": {
+    "C:\\!Dizox\\Лаби\\ЧНУ\\2023 рік 2 семестр 2 курсу\\ООП\\Лаба 2\\Regex A01\\Regex\\Regex.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\!Dizox\\Лаби\\ЧНУ\\2023 рік 2 семестр 2 курсу\\ООП\\Лаба 2\\Regex\\Regex\\Regex.csproj",
+        "projectUniqueName": "C:\\!Dizox\\Лаби\\ЧНУ\\2023 рік 2 семестр 2 курсу\\ООП\\Лаба 2\\Regex A01\\Regex\\Regex.csproj",
         "projectName": "Regex",
-        "projectPath": "C:\\!Dizox\\Лаби\\ЧНУ\\2023 рік 2 семестр 2 курсу\\ООП\\Лаба 2\\Regex\\Regex\\Regex.csproj",
+        "projectPath": "C:\\!Dizox\\Лаби\\ЧНУ\\2023 рік 2 семестр 2 курсу\\ООП\\Лаба 2\\Regex A01\\Regex\\Regex.csproj",
         "packagesPath": "C:\\Users\\Dizox\\.nuget\\packages\\",
-        "outputPath": "C:\\!Dizox\\Лаби\\ЧНУ\\2023 рік 2 семестр 2 курсу\\ООП\\Лаба 2\\Regex\\Regex\\obj\\",
+        "outputPath": "C:\\!Dizox\\Лаби\\ЧНУ\\2023 рік 2 семестр 2 курсу\\ООП\\Лаба 2\\Regex A01\\Regex\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

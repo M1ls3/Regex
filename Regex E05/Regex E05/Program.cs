@@ -11,9 +11,8 @@ namespace RegExLab_A
             string str = Console.ReadLine();
             while (str != null)
             {
-                Regex singleCharPattern = new Regex(@"\$v_([\w\d])\$");
-                Regex multiCharPattern = new Regex(@"\$v_\{([\d\w]+)\}\$");
-                string result = multiCharPattern.Replace(singleCharPattern.Replace(str, "v[$1]"), "v[$1]"); 
+                Regex singleCharPattern = new Regex(@"\$v_([a-zA-Z0-9])\$|\$v_{([a-zA-Z0-9]*)}\$");
+                string result = singleCharPattern.Replace(str, "v[$1$2]");
                 Console.WriteLine(result); 
                 str = Console.ReadLine();
             }

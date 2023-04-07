@@ -11,7 +11,7 @@ namespace RegExLab_A
             string str = Console.ReadLine();
             while (str != null)
             {
-                Regex pattern = new Regex(@"\$v_{([\w\d])}\$"); 
+                Regex pattern = new Regex(@"[\$]v_{(\w*)}[\$]"); 
                 string result = pattern.Replace(str, "v[$1]"); 
                 Console.WriteLine(result); 
                 str = Console.ReadLine();

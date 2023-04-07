@@ -11,8 +11,8 @@ namespace RegExLab_A
             string str = Console.ReadLine();
             while (str != null)
             {
-                string pattern = @"\\texttt\{([\p{L}\d]+)\}";
-                string result = Regex.Replace(str, pattern, @"\begin{ttfamily}$1\end{ttfamily}");
+                string pattern = @"\\texttt\{([a-zA-Z]+)\}|\\texttt\{([0-9]+)\}|\\texttt\{(\s)\}";
+                string result = Regex.Replace(str, pattern, @"\begin{ttfamily}$1$2$3\end{ttfamily}");
                 Console.WriteLine(result);
                 str = Console.ReadLine();
             }

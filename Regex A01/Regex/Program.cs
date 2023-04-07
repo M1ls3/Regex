@@ -3,8 +3,8 @@ namespace Regex
 {
     class Program
     {
-        static String searchPatt = "a+b+c"; // modify regex here...
-        static String replacePatt = "QQQ"; // ...and here
+        static String searchPatt = "a+b+b+c+"; 
+        static String replacePatt = "QQQ"; 
         static void Main(string[] args)
         {
             String str = Console.ReadLine();
