@@ -7,7 +7,7 @@ namespace RegExLab_A
     class Program
     {
         static void Main(string[] args)
-        {
+        { 
             string str = Console.ReadLine();
             while (str != null)
             {

@@ -10,7 +10,7 @@ namespace RegExLab_A
         {
             string str = Console.ReadLine();
             while (str != null)
-            {
+            { 
                 Regex pattern = new Regex(@"([a-z])([A-Z])");
                 string result = pattern.Replace(str, "_?_$1$2_?_");
                 Console.WriteLine(result);

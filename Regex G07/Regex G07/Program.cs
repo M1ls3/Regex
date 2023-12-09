@@ -10,7 +10,7 @@ namespace RegExLab_A
         {
             string str = Console.ReadLine();
             while (str != null)
-            {
+            { 
                 Regex patterns = new Regex(@"\b[A-Z][a-zA-Z]*\b(\s+[A-Z][a-zA-Z]*){2,}");
                 string result = patterns.Replace(str, "\"$&\"");
                 Console.WriteLine(result);

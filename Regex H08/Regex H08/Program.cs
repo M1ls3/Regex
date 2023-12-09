@@ -10,7 +10,7 @@ namespace RegExLab_A
         {
             string str = Console.ReadLine();
             while (str != null)
-            {
+            { 
                 Regex patterns = new Regex(@"\\circle\{\((\d+),(\d+)\)");
                 string result = patterns.Replace(str, "\\circle{($2,$1)");
                 Console.WriteLine(result);
